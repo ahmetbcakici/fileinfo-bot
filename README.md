@@ -2,3 +2,5 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/36089310/71481157-c996a380-280d-11ea-9f18-cfe31edc3906.gif">
 </p>
+
+<a href="https://github.com/sdushantha/fileinfo" target="_blank">Terminal version</a>
