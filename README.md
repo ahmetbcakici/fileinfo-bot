@@ -5,7 +5,7 @@
 
 <h2 align="center">
 <b>
-<a href="https://discordapp.com/oauth2/authorize?&client_id=659503927544250379&scope=bot&permissions=8" target="_blank">Import your discord server</a>
+<a href="https://discordapp.com/oauth2/authorize?&client_id=659503927544250379&scope=bot&permissions=8" target="_blank">Import to discord server</a>
 </b>
 </h2>
 
