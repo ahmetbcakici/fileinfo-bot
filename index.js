@@ -1,7 +1,7 @@
 const cheerio = require("cheerio");
 const request = require("request");
 const Discord = require("discord.js");
-const token = "NjU5NTAzOTI3NTQ0MjUwMzc5.XgUIKQ.hit3hyIWoYcl_NKhLRg3vRUR9CM"; //bot key
+const token = ""; //bot key
 
 const client = new Discord.Client();
 
